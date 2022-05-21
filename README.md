@@ -1,4 +1,4 @@
-# Online Music Streaming
+# 🎶 Online Music Streaming
 
 In this guided machine learning project, I learn how to create and train a model called a music recommender which suggests music genre based on the user profile. 
 
